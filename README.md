@@ -54,5 +54,15 @@ Ex: cron for testing is * * * * *
 <img width="817" height="450" alt="image" src="https://github.com/user-attachments/assets/75838c5b-3258-443f-b493-6161181972e1" />
 
 
+**Challenges Faced**:
+
+Integrating workflow events with backend+front end
+
+**Pending Items**:
+
+1.complete Front end
+2. on click of edit timesheet from email opening of edit UI timesheet screen
+
+
 
 
