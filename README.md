@@ -11,8 +11,11 @@
 
 **Description**: This is the human in loop system for timesheet submissions
 
-Start by running the docker compose in human-in-loop-system project by editing .env file here for from email id
+Start by running the docker compose in human-in-loop-system project by editing .env file  for from email id
+
+
 **.env file** 
+
 create .env file in  the same directory as docker-compose with following
 
 **SMTP_USER**={YOUR TEST SMTP USER EMAILID}
