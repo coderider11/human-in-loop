@@ -2,8 +2,11 @@
 
 **Architecture:**
 
-<img width="330" height="330" alt="image" src="https://github.com/user-attachments/assets/4acd3b6f-5a0e-4e32-83dd-f767c6a39c00" />
-<img width="330" height="330" alt="image" src="https://github.com/user-attachments/assets/af0a67db-1158-4a38-ad1c-1e42ec649192" />
+
+<img width="1493" height="918" alt="image" src="https://github.com/user-attachments/assets/4cc12da0-187d-4eb8-81fa-34391cf6f961" />
+
+
+<img width="1497" height="917" alt="image" src="https://github.com/user-attachments/assets/2586ece6-cd03-4f32-ab72-ee79e66ba75e" />
 
 
 **Description**: This is the human in loop system for timesheet submissions
